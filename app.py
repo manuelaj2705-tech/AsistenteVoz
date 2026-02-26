@@ -23,7 +23,10 @@ st.write("""
 Un asistente de voz es una tecnología que permite interactuar con dispositivos usando la voz.
 Reconoce lo que dices, lo interpreta y responde realizando acciones como buscar información, controlar dispositivos,
 enviar mensajes o dar recomendaciones, haciendo más fácil y rápida la interacción sin necesidad de usar las manos.
-""")
+
+A voice assistant is a technology that allows users to interact with devices using their voice. It recognizes what you say,
+interprets it, and responds by performing actions such as searching for information, controlling devices, sending messages, 
+or giving recommendations, making interaction easier and faster without the need to use your hands.""")
 
 st.markdown("Quieres escucharlo?, copia el texto")
 text = st.text_area("Ingrese El texto a escuchar.")
