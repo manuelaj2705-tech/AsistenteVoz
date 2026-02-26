@@ -18,7 +18,7 @@ try:
 except:
     pass
 
-st.subheader("Una pequeña Fábula.")
+st.subheader("¿ Qué es un asistente de voz")
 st.write("""
 Un asistente de voz es una tecnología que permite interactuar con dispositivos usando la voz.
 Reconoce lo que dices, lo interpreta y responde realizando acciones como buscar información, controlar dispositivos,
